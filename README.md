@@ -6,7 +6,7 @@
 </p>
 <br /><br />
 <p align="center">
-D is for Dinosaur, leading the way
+D is for Dinosaurs, leading the way
 </p>
 <br /><br />
 <p align="center">
