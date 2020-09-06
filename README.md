@@ -4,9 +4,9 @@
 <p align="center">
 <img id="stegosaur" src="img/stegosaur.gif">
 </p>
-
+<p align="center">
 D is for Dinosaur, leading the way
-
+</p>
 <br /><br />
 <br /><br />
 <p align="center">
