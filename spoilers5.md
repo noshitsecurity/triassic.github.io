@@ -14,12 +14,12 @@ Use the old walkthrough to grow a new leg. Then conquer triassic the #architect'
 
 noshitsecurity.com/13.md<br />
 triassic.noshitsecurity.com/README.md<br />
-triassic.noshitsecurity.com/img/architect.gif<br />
+triassic.noshitsecurity.com/img/stegosaur.gif<br />
 triassic.noshitsecurity.com/img/wins.png<br />
 triassic.noshitsecurity.com/birds.png<br />
 triassic.noshitsecurity.com/detective.png<br />
-triassic.noshitsecurity.com/img/gecko.png<br />
-triassic.noshitsecurity.com/img/hiding.png<br />
+triassic.noshitsecurity.com/gecko.png<br />
+triassic.noshitsecurity.com/hiding.png<br />
 
 #destinyCTF
 
