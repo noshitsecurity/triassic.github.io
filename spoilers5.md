@@ -18,7 +18,7 @@ triassic.noshitsecurity.com/img/stegosaur.gif<br />
 triassic.noshitsecurity.com/img/win.png<br />
 triassic.noshitsecurity.com/birds.png<br />
 triassic.noshitsecurity.com/detective.png<br />
-triassic.noshitsecurity.com/gecko.png<br />
+triassic.noshitsecurity.com/gecko.jpg<br />
 triassic.noshitsecurity.com/hiding.png<br />
 
 #destinyCTF
