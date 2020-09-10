@@ -28,5 +28,5 @@ Star-Lord<br >Official Keyholder<br />Triassic Pentesting Labs</p>
 <p align="center">Super stuck? Click here for <a href="spoilers5">spoilers</a> if you must!</p>
 <br />
 <br />
-<p align="center">Triassic Pentesting Labs, the Dinosaur trademark(s), and the NSS Wasp logo are products of sincera labs. All rights reversed.
-</p>
+<p align="center">Triassic Pentesting Labs, the Dinosaur trademark(s), and the NSS Wasp logo are products of sincera labs. All rights reversed.<br /><br />
+<img id="wasp" width="90" src="https://www.noshitsecurity.com/img/wasp.png"></p>
