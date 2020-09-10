@@ -21,5 +21,5 @@ Check back for more information as it becomes available.<br /><br />
 <br dinosaur="fyoLiIlkmut4SSYLlja6fTu6opDaw8B"/>
 <br />
 <p align="center">
-  <img width="90" src="img/wasp.png">
+  <img width="90" src="https://www.noshitsecurity.com/img/wasp.png">
 </p>
