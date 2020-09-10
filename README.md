@@ -14,14 +14,14 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" />
 </p><br /><br />
 
 <p align="center">
-<img id="twh" width="120" src="img/kh_triassic.png" /><br /><br /><a>thewhiteh4t</a><br />
-Official Keyholder<br />Triassic Pentesting Labs</p>
+<img id="twh" width="120" src="img/kh_triassic.png" /><br /><br />
+thewhiteh4t<br />Official Keyholder<br />Triassic Pentesting Labs</p>
 
 <br /><br />
 
 <p align="center">
-<img id="Star-Lord" width="120" src="img/kh_triassic.png"><br /><br />Star-Lord</a><br />
-Official Keyholder<br />Triassic Pentesting Labs</p>
+<img id="Star-Lord" width="120" src="img/kh_triassic.png"><br /><br />
+Star-Lord<br >Official Keyholder<br />Triassic Pentesting Labs</p>
 
 <br /><br />
 <br /><br />
