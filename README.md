@@ -24,6 +24,12 @@ thewhiteh4t<br />Official Keyholder<br />Triassic Pentesting Labs</p>
 Star-Lord<br >Official Keyholder<br />Triassic Pentesting Labs</p>
 
 <br /><br />
+
+<p align="center">
+<img id="theactualnsa" width="120" src="img/kh_triassic.png"><br /><br />
+Ava<br >Official Keyholder<br />Triassic Pentesting Labs</p>
+
+<br /><br />
 <p align="center">Need help? Click here for <a href="help">the tools</a> you need to succeed..</p>
 <br /><br />
 <p align="center">Super stuck? Click here for <a href="spoilers5">spoilers</a> if you must!</p>
