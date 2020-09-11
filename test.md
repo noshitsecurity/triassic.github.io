@@ -17,9 +17,9 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" />
 
 | thewhiteh4t              | Star-Lord                      | Ava                        |
 |:-------------------------|:-------------------------------|:---------------------------|
-| <p align="center"> <img width="120" src="img/kh_triassic.png"></p> | <p align="center"> <img width="120" src="img/kh_triassic.png"></p> | <p align="center"><img width="120" src="img/kh_triassic.png"></p> |
-| <p align="center">Official Keyholder</p>       | <p align="center">Official Keyholder</p>| <p align="center">Official Keyholder</p>|
-| <p align="center">Triassic Pentesting Labs</p> | <p align="center">Triassic Pentesting Labs</p>| <p align="center">Triassic Pentesting Labs</p>|
+| <img width="120" src="img/kh_triassic.png">         | <img width="120" src="img/kh_triassic.png"> | <img width="120" src="img/kh_triassic.png"> |
+| Official Keyholder       | Official Keyholder       | Official Keyholder       |
+| Triassic Pentesting Labs | Triassic Pentesting Labs | Triassic Pentesting Labs |
 
 
 
