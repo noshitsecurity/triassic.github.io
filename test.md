@@ -14,21 +14,14 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" />
 </p><br /><br />
 <p align="center">The <a href="http://somafm.com/player/#/now-playing/defcon">music</a> helps.</p>
 <br /><br /><br /><br />
-<p align="center">
-<img id="twh" width="120" src="img/kh_triassic.png" /><br /><br />
-thewhiteh4t<br />Official Keyholder<br />Triassic Pentesting Labs</p>
 
-<br /><br />
+| thewhiteh4t              | Star-Lord                      | Ava                        |
+|:-------------------------|:-------------------------------|:---------------------------|
+| <p align="center"> <img width="120" src="img/kh_triassic.png"></p> | <p align="center"> <img width="120" src="img/kh_triassic.png"></p> | <p align="center"><img width="120" src="img/kh_triassic.png"></p> |
+| <p align="center">Official Keyholder</p>       | <p align="center">Official Keyholder</p>| <p align="center">Official Keyholder</p>|
+| <p align="center">Triassic Pentesting Labs</p> | <p align="center">Triassic Pentesting Labs</p>| <p align="center">Triassic Pentesting Labs</p>|
 
-<p align="center">
-<img id="Star-Lord" width="120" src="img/kh_triassic.png"><br /><br />
-Star-Lord<br >Official Keyholder<br />Triassic Pentesting Labs</p>
 
-<br /><br />
-
-<p align="center">
-<img id="theactualnsa" width="120" src="img/kh_triassic.png"><br /><br />
-Ava<br >Official Keyholder<br />Triassic Pentesting Labs</p>
 
 <br /><br />
 <p align="center">Need help? Click here for <a href="help">the tools</a> you need to succeed..</p>
