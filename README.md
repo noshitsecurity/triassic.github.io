@@ -12,7 +12,7 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" />
 <p align="center">
 <script class="9c62912b5d1e7b830b10b4302b78c4d2" src="https://w.promofeatures.com/js/timer/9c62912b5d1e7b830b10b4302b78c4d2.js?v=1599417212"></script>
 </p><br /><br />
-<p align="center">The <a href="http://somafm.com/player/#/now-playing/defcon">music</a> helps.</p>
+<p align="center">The <a href="http://somafm.com/player/#/now-playing/defcon" target="soma">music</a> helps.</p>
 <br /><br />
 <p align="center">
 <img id="twh" width="120" src="img/kh_triassic.png" /><br /><br />
