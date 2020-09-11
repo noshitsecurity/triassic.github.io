@@ -18,5 +18,5 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" />
 <br /><br />
 <br />
 <br />
-<p align="center">Triassic Trials, the Dinosaur trademark(s), and the NSS Wasp logo are products of sincera labs. All rights reversed.<br /><br />
+<p align="center">Triassic Trials, the Dinosaur trademark(s), and the NSS Wasp logo are products of sincera labs.<br />All rights reversed.<br /><br />
 <img id="wasp" width="90" src="https://www.noshitsecurity.com/img/wasp.png"></p>
