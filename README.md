@@ -16,19 +16,19 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" />
 <br /><br />
 <p align="center">
 <img id="twh" width="120" src="img/kh_triassic.png" /><br /><br />
-thewhiteh4t<br />Official Keyholder<br />Triassic Pentesting Labs</p>
+thewhiteh4t<br />Official Keyholder<br />Triassic Pentesting Labs<br />09-08-2020 15:08 </p>
 
 <br /><br />
 
 <p align="center">
 <img id="Star-Lord" width="120" src="img/kh_triassic.png"><br /><br />
-Star-Lord<br >Official Keyholder<br />Triassic Pentesting Labs</p>
+Star-Lord<br >Official Keyholder<br />Triassic Pentesting Labs<br />09-09-2020 12:34 </p>
 
 <br /><br />
 
 <p align="center">
 <img id="theactualnsa" width="120" src="img/kh_triassic.png"><br /><br />
-Ava<br >Official Keyholder<br />Triassic Pentesting Labs</p>
+Ava<br >Official Keyholder<br />Triassic Pentesting Labs<br />09-10-2020 06:04 </p>
 
 <br /><br />
 <p align="center">Need help? Click here for <a href="help">the tools</a> you need to succeed.</p>
