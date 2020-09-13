@@ -14,7 +14,7 @@ D is for Dinosaur, leading the way<br class="9c62912b5d1e7b830b10b4302b78c4d2" f
 </p><br /><br />
 <p align="center">the <a href="https://somafm.com/player/#/now-playing/defcon" target="dc">music</a> helps</p>
 <br />
-<p align="center">view the <a href="https://www.noshitsecurity.com/wins">#destinyCTF</a> winners</p>
+<p align="center">view the <a href="https://www.noshitsecurity.com/wins">#destinyCTF</a> leaderboards</p>
 <br /><br />
 <p align="center">Official NSS Partners</p>
 <br />
