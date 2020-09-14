@@ -48,19 +48,19 @@ We will demonstrate amd discuss the nuts and bolts of; and what it takes to buil
 
 `4. Storage Accounts, Vaults, and Service and Private Endpoints`
 
-We will demonstrate amd discuss the best way to build and use Storage Accounts and Keyvaults in Azure, and cover what Service / Private Endpoints are meant for. <br /><br />
+We will demonstrate and discuss the best way to build and use Storage Accounts and Keyvaults in Azure, and cover what Service / Private Endpoints are meant for. <br /><br />
 
 `5. Policy and Compliance in the Azure cloud`
 
-We will demonstrate amd discuss how to scope and apply poilcies to conform infra with PCI, NIST, Azure CIS Benchmark and other relevant security controls.<br /><br />
+We will demonstrate and discuss how to scope and apply poilcies to conform infra with PCI, NIST, Azure CIS Benchmark and other relevant security controls.<br /><br />
 
 `6 Virtual Machines, limitations with IAM and Azure AD` 
 
-We will demonstrate amd discuss how to build resilient virtual machines that conform to availability and failover / fail-back prerequisites, and how to approach each OS style with the best IAM solution possible for the scenario.<br /><br />
+We will demonstrate and discuss how to build resilient virtual machines that conform to availability and failover / fail-back prerequisites, and how to approach each OS style with the best IAM solution possible for the scenario.<br /><br />
 
 `7. Updates, DR, Backups, and Managed Identities`
 
-We will demonstrate amd discuss backups and DR, as well as the best way to approach the idea of a "service account" eg service principal, and what managed identities can do for your infrastructure.<br /><br />
+We will demonstrate and discuss backups and DR, as well as the best way to approach the idea of a "service account" eg service principal, and what managed identities can do for your infrastructure.<br /><br />
 
 `8. Operational Excellence and High Availability`
 
