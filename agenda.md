@@ -15,7 +15,7 @@ By now you've got questions about the timer, and might want to kow what exactly 
 
 That last one landed login credentials and soon U2F keys into the hands of the 'keyholders.'
 
-They are the first generation of students learning Azure security archtiecture from yours truly. I have built for big names.<br />
+They are the first generation of students learning Azure security archtiecture from yours truly.<br />
 Listed below is the agenda(s) and hands-on skills being developed for three keyholders.<br /><br />
 
 Cya in 40 days, dinosaurs. 
