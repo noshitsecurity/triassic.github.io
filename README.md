@@ -17,6 +17,8 @@ D is for Dinosaur, leading the way<br class="9c62912b5d1e7b830b10b4302b78c4d2" f
 <p align="center">- this challenge has been solved -</p>
 <br />
 <p align="center">view the <a href="https://www.noshitsecurity.com/wins">#destinyCTF</a> winners roster</p>
+<br />
+Click here to view the Keyholder's <a href="agenda">Agenda</a>.
 <br /><br />
 <p align="center">Official NSS Partners</p>
 <br />
