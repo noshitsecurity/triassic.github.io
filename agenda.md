@@ -67,4 +67,4 @@ We will demonstrate amd discuss backups and DR, as well as the best way to appro
 We will go over availability limitations, region fail-back, and the true cost of Azure Firewall, DDoS protection, and doing business in the cloud at the lowest bottom line.<br /><br />
 
 <p align="center"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png" /></p>
-<br /><br />
+<br /><br /><br /><br />
