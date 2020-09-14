@@ -23,7 +23,7 @@ Cya in 40 days, dinosaurs.
 
 #### -Shane
 
-<br /><br />
+<br /><br /><br /><br />
 **Azure Security Engineering I**
 **09-14-2020**
 <br /><br />
