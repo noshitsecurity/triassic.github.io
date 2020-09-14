@@ -44,7 +44,7 @@ We will then move into what approaches can be used with resource groups, what th
 
 `3. Networks, Subnets, and Zero Trust Architecture`
 
-We will demonstrate amd discuss the nuts and bolts of; and what it takes to build a real enterprise ZTA network the best way-- with the future in mind and assumption of breach present in the arch.<br /><br />
+We will demonstrate and discuss the nuts and bolts of; and what it takes to build a real enterprise ZTA network the best way-- with the future in mind and assumption of breach present in the arch.<br /><br />
 
 `4. Storage Accounts, Vaults, and Service and Private Endpoints`
 
