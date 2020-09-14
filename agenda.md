@@ -10,7 +10,7 @@
 By now you've got questions about the timer, and might want to kow what exactly is going on.<br />
 Allow me to explain. 
 
-1. Skills gap won't close itself. 
+1. Skills gap won't close itself
 2. Told you I was going to teach you to build a lab
 3. Held a series of CTFs that showed me who was willing to try harder than anyone else
 
