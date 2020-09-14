@@ -7,7 +7,8 @@
 <hr />
 
 
-By now you've got questions about the timer, and might want to kow what exactly is going on. Let me explain. 
+By now you've got questions about the timer, and might want to kow what exactly is going on.<br />
+Allow me to explain. 
 
 1. Skills gap won't close itself. 
 2. Told you I was going to teach you to build a lab
