@@ -27,8 +27,8 @@ Cya in 40 days, dinosaurs.
 **Azure Security Engineering I**
 **09-14-2020**
 <br /><br />
-"Throughout 2020, 95% of cloud security failures are going to be the customer's fault."<br />
--Microsoft, Ignite 2019 (Oren)
+> "Throughout 2020, 95% of cloud security failures are going to be the customer's fault."<br />
+> -Microsoft, Ignite 2019 (Oren)
 <br /><br />
 <br /><br />
 
