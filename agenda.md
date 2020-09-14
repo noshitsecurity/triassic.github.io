@@ -23,14 +23,13 @@ Cya in 40 days, dinosaurs.
 
 #### -Shane
 
-<br /><br />
+<br /><br /><br /><br />
 **Azure Security Engineering I**
 **09-14-2020**
 <br /><br />
 > "Throughout 2020, 95% of cloud security failures are going to be the customer's fault."<br />
 > -Microsoft, Ignite 2019 (Oren)
-
-<br /><br />
+<br /><br /><br /><br />
 
 `Agenda`
 <br /><br />
@@ -68,4 +67,4 @@ We will demonstrate amd discuss backups and DR, as well as the best way to appro
 We will go over availability limitations, region fail-back, and the true cost of Azure Firewall, DDoS protection, and doing business in the cloud at the lowest bottom line.<br /><br />
 
 <p align="center"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png" /></p>
-<br />
+<br /><br />
