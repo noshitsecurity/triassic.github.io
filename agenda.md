@@ -56,7 +56,7 @@ We will demonstrate and discuss the best way to build and use Storage Accounts a
 
 `5. Policy and Compliance in the Azure cloud`
 
-We will demonstrate and discuss how to scope and apply poilcies to conform infra with PCI, NIST, Azure CIS Benchmark and other relevant security controls.<br /><br />
+We will demonstrate and discuss how to scope and apply policies to conform infra with PCI, NIST, Azure CIS Benchmark and other relevant security controls.<br /><br />
 
 `6 Virtual Machines, limitations with IAM and Azure AD` 
 
