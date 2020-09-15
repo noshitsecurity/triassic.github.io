@@ -21,7 +21,7 @@ D is for Dinosaur, leading the way<br class="9c62912b5d1e7b830b10b4302b78c4d2" f
 <p align="center">view the keyholder's <a href="agenda">agenda</a>.
 <br /><br />
 <p align="center">Official NSS Partners</p>
-<br />
+<br /><br /><br /><br />
 <div id="partners">
     <div class="photobanner">
     	<img class="first" height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
