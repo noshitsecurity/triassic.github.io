@@ -21,18 +21,13 @@ That last one landed login credentials and soon U2F keys into the hands of the '
 They are the first generation of students learning Azure security architecture from yours truly.<br />
 Listed below is the agenda(s) and hands-on skills being developed for three keyholders.<br /><br />
 
+<br />
+
 Cya in 40 days, dinosaurs. 
 
 #### -Shane
 
 <br /><br />
-
-|              | **Keyholders** |     |
-|:-------------|:----------|:-----|
-| | | |
-| thewhiteh4t  | Star-Lord | Ava  |
-
-<br />
 
 <p align="center"><img width="200" src="img/kh_triassic.png" /></p>
 
