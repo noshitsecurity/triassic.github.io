@@ -14,7 +14,7 @@ Allow me to explain.
 2. Told you I was going to teach you to build a lab
 3. Held a series of CTFs that showed me who was willing to try harder than anyone else
 
-That last one landed login credentials and soon U2F keys into the hands of the 'keyholders.'
+That last bit landed login credentials and soon U2F keys into the hands of the 'keyholders.'
 
 They are the first generation of students learning Azure security architecture from yours truly.<br />
 Listed below is the agenda(s) and hands-on skills being developed for three keyholders.<br /><br />
