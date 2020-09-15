@@ -21,9 +21,7 @@ That last one landed login credentials and soon U2F keys into the hands of the '
 |              | **Keyholders** |     |
 |:-------------|:----------|:-----|
 | | | |
-| | | |
 | thewhiteh4t  | Star-Lord | Ava  |
-| | | |
 
 <br />
 
