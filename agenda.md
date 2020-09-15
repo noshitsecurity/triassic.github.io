@@ -17,7 +17,7 @@ Allow me to explain.
 That last bit landed login credentials, and soon U2F keys into the hands of the 'keyholders.'
 
 They are the first generation of students learning Azure security architecture from yours truly.<br />
-Listed below is the keyholder's agenda, and the hands-on skills they will develop as a team.<br /><br />
+Listed below is the keyholder's agenda, and the hands-on skills they will develop together.<br /><br />
 
 Cya in 40 days, dinosaurs. 
 
