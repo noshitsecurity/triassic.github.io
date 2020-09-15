@@ -23,7 +23,7 @@ Cya in 40 days, dinosaurs.
 
 #### -Shane
 
-<br />
+<br /><br />
 
 <p align="center"><img width="200" src="img/kh_triassic.png" /></p>
 
