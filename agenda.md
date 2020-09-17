@@ -31,7 +31,7 @@ Cya in 40 days, dinosaurs.
 <br /><br />
 
 **Azure Security Engineering I**<br />
-**09-14-2020**
+**09-14-2020 - 09-21-2020**
 <br /><br />
 > "Throughout 2020, 95% of cloud security failures are going to be the customer's fault."<br />
 > -Microsoft, Ignite 2019 (Oren)
@@ -67,11 +67,15 @@ We will demonstrate and discuss how to build resilient virtual machines that con
 
 `7. Updates, DR, Backups, and Managed Identities`
 
-We will demonstrate and discuss backups and DR, as well as the best way to approach the idea of a "service account" eg service principal, and what managed identities can do for your infrastructure.<br /><br />
+We will demonstrate and discuss backups and DR, as well as the best way to approach the idea of a "service account" eg service principal, and what Automation Accounts and managed identities can do for your infrastructure.<br /><br />
 
 `8. Operational Excellence and High Availability`
 
-We will go over availability limitations, region fail-back, and the true cost of Azure Firewall, DDoS protection, and doing business in the cloud at the lowest bottom line.<br /><br /><br /><br />
+We will go over availability limitations, region fail-back, and the true cost of Azure Firewall, DDoS protection, and doing business in the cloud at the lowest bottom line.<br /><br />
+
+`9. Practical Application Session 09-17-2020`
+
+Students take the wheel; the resource locks are removed and students build resilient Zero Trust Azure Cloud architecture with assumption of breach present, and industry-leading best practices, Disaster Recovery, Policy and Compliance initiatives employed.<br /><br />
 
 <p align="center">
 <img width="90" src="https://www.noshitsecurity.com/img/wasp.png" />     
