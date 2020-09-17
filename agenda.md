@@ -79,7 +79,7 @@ We will go over availability limitations, region fail-back, and the true cost of
 ##### 09-17-2020
 
 Students take the wheel; the resource locks are removed and students build resilient Zero Trust Azure Cloud architecture with assumption of breach present, and industry-leading best practices, Disaster Recovery, Policy and Compliance initiatives employed.<br /><br />
-
+<br /><br />
 <p align="center">
 <img width="90" src="https://www.noshitsecurity.com/img/wasp.png" />     
 <br /><br />
