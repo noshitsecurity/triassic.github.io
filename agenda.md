@@ -25,7 +25,8 @@ Cya in 40 days, dinosaurs.
 
 <br /><br />
 
-<p align="center"><img width="200" src="img/kh_triassic.png" /></p>
+<p align="center"><img width="200" src="img/kh_triassic.png" /><br /><br />
+<img width="200" src="https://www.noshitsecurity.com/img/partners/fido2.png" /></p>
 
 <br /><br />
 
@@ -72,7 +73,7 @@ We will demonstrate and discuss backups and DR, as well as the best way to appro
 
 We will go over availability limitations, region fail-back, and the true cost of Azure Firewall, DDoS protection, and doing business in the cloud at the lowest bottom line.<br /><br /><br /><br />
 
-<p align="center"><img width="200" src="https://www.noshitsecurity.com/img/partners/fido2.png" /><br /><br /><br /><br />
+<p align="center">
 <img width="90" src="https://www.noshitsecurity.com/img/wasp.png" />     
 <br /><br />
   <a href="coc">Code of Conduct</a></p>
