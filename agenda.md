@@ -75,4 +75,4 @@ We will go over availability limitations, region fail-back, and the true cost of
 <p align="center"><img width="90" src="https://www.noshitsecurity.com/img/partners/fido.png" /><br /><br />
 <img width="90" src="https://www.noshitsecurity.com/img/wasp.png" />     
 <br /><br />
-  <a href="coc">Code of Conduuct</a></p>
+  <a href="coc">Code of Conduct</a></p>
