@@ -50,6 +50,6 @@ D is for Dinosaur, leading the way<br class="9c62912b5d1e7b830b10b4302b78c4d2" f
     </div>
 </div>
 <img id="wasp" width="90" src="https://www.noshitsecurity.com/img/wasp.png"><br /><br />
-<p align="center">Triassic Trials, the Dinosaur trademark(s), and the NSS Wasp logo are products of sincera labs.<br />All rights reversed.<br /><br />
 NoShitSecurity is a 501(c)(3) Non-Profit Organization and Official <a href="https://fidoalliance.org">FIDO</a> Alliance Member<br />
+<p align="center">Triassic Trials, the Dinosaur trademark(s), and the NSS Wasp logo are products of sincera labs.<br />All rights reversed.<br /><br />
     <a href="coc">Code of Conduct</a></p>
