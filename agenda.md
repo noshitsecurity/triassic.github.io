@@ -27,7 +27,7 @@ Cya in 40 days, dinosaurs.
 
 <p align="center"><img width="200" src="img/kh_triassic.png" /></p>
 
-<br />
+<br /><br />
 
 **Azure Security Engineering I**<br />
 **09-14-2020**
