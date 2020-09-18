@@ -25,13 +25,7 @@ D is for Dinosaur, leading the way<br class="9c62912b5d1e7b830b10b4302b78c4d2" f
 <br /><br />
 <div id="partners">
     <div class="photobanner">
-    	<img class="first" height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />  
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />  
+    	<img class="first" height="80" src="https://www.noshitsecurity.com/img/partners/lead.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/h5.png" alt="Hak5.org" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />  
@@ -39,6 +33,9 @@ D is for Dinosaur, leading the way<br class="9c62912b5d1e7b830b10b4302b78c4d2" f
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />  
       <img height="80" src="https://www.noshitsecurity.com/img/partners/twc.png" alt="The White Circle" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/pswg.svg" alt="PortSwigger Academy" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/fido2.png" alt="FIDO Alliance" />
