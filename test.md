@@ -12,20 +12,20 @@ D is for Dinosaur, leading the way<br class="9c62912b5d1e7b830b10b4302b78c4d2" f
 <p align="center">
 <script class="c19bcdc5af7430650316f0df7417e117" src="https://w.promofeatures.com/js/timer/c19bcdc5af7430650316f0df7417e117.js?v=1599866870"></script>
 </p><br /><br />
-<p align="center">The <a href="http://somafm.com/player/#/now-playing/defcon">music</a> helps.</p>
+<p align="center">the <a href="https://somafm.com/player/#/now-playing/defcon" target="dc">music</a> helps</p>
 <br />
+<p align="center">- this challenge has been solved -</p>
+<br />
+<p align="center">view the <a href="https://www.noshitsecurity.com/wins">#destinyCTF</a> winners roster</p>
+<br />
+<p align="center">view the keyholder's <a href="agenda">agenda</a>
+<br /><br />
 <br /><br />
 <p align="center">Official NSS Partners</p>
-<br />
+<br /><br />
 <div id="partners">
     <div class="photobanner">
-    	<img class="first" height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />  
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />  
+    	<img class="first" height="80" src="https://www.noshitsecurity.com/img/partners/lead.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/h5.png" alt="Hak5.org" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />  
@@ -34,12 +34,16 @@ D is for Dinosaur, leading the way<br class="9c62912b5d1e7b830b10b4302b78c4d2" f
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />  
       <img height="80" src="https://www.noshitsecurity.com/img/partners/twc.png" alt="The White Circle" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" /> 
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/sfm.png" alt="Soma.FM" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/fido2.png" alt="FIDO Alliance" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-     <img height="80" src="https://www.noshitsecurity.com/img/partners/more.png" alt="NSS Partners" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/pswg.png" alt="PortSwigger Academy" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
     </div>
 </div>
-<p align="center">Triassic Trials, the Dinosaur trademark(s), and the NSS Wasp logo are products of sincera labs.<br />All rights reversed.<br /><br />
-<img id="wasp" width="90" src="https://www.noshitsecurity.com/img/wasp.png"></p>
+<p align="center"><img id="wasp" width="90" src="https://www.noshitsecurity.com/img/wasp.png"><br /><br />
+NoShitSecurity is a 501(c)(3) Non-Profit Organization and Official <a href="https://fidoalliance.org">FIDO</a> Alliance Member<br />
+Triassic Trials, the Dinosaur trademark(s), and the NSS Wasp logo are products of sincera labs.<br />All rights reversed.<br /><br />
+    <a href="coc">Code of Conduct</a></p>
