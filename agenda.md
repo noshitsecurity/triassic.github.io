@@ -74,7 +74,7 @@ We will demonstrate and discuss backups and DR, as well as the best way to appro
 
 We will go over availability limitations, region fail-back, and the true cost of Azure Firewall, DDoS protection, and doing business in the cloud at the lowest bottom line.<br /><br />
 
-`9. Practical Application Hands-On Sessions`
+`9. Practical Application & Hands-On Sessions`
 
 ##### 09-17-2020 - 09-21-2020
 
