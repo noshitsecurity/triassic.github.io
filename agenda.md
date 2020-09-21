@@ -12,7 +12,7 @@ Allow me to explain some things.
 
 1. I developed a <a href="https://www.noshitsecurity.com/ctf" target="nss">series</a> of CTFs that start easy and gradually get more difficult.
 2. The CTFs are meant to help newcomers better understand public key infrastructure.
-3. Those whom bested the first active CTFs got a shot at being a #destinyCTF Keyholders
+3. Those whom <a href="https://www.noshitsecurity.com/wins" target="nss">bested</a> the first active CTFs got a shot at being a #destinyCTF Keyholders
 
 This put login credentials and soon U2F keys into the hands of the Keyholders.
 
