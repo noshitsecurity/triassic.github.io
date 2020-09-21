@@ -7,14 +7,14 @@
 <hr />
 
 
-By now you've got questions about the timer, and might want to know what exactly is going on.<br />
-Allow me to explain. 
+By now you've got questions about the <a href="https://triassic.noshitsecurity.com">timer</a>, or maybe you're here from <a href="https://www.linkedin.com/company/noshitsecurity/">LinkedIn</a>.<br />
+Allow me to explain some things. 
 
-1. Skills gap won't close itself
-2. Told you I was going to teach you to build a lab
-3. Held a series of CTFs that showed me who was willing to try harder than anyone else
+1. I developed a series of CTFs that start easy and gradually get more difficult.
+2. The CTFs are meant to help newcomers better understand public key infrastructure.
+3. Those whom bested the first active CTFs got a shot at being a #destinyCTF Keyholders
 
-That last bit landed login credentials, and soon U2F keys into the hands of the 'keyholders.'
+This put login credentials and soon U2F keys into the hands of the Keyholders.
 
 They are the first generation of students learning Azure security architecture from yours truly.<br />
 Listed below is the keyholder's agenda, and the hands-on skills they will develop together.<br /><br />
@@ -38,8 +38,9 @@ Cya in 40 days, dinosaurs.
 > -Microsoft, Ignite 2019 (Oren)
 
 <br /><br />
-
-`Agenda`
+```
+Agenda
+```
 <br /><br />
 
 `1. Conditional Access`
