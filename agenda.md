@@ -10,7 +10,7 @@
 By now you've got questions about the <a href="https://triassic.noshitsecurity.com">timer</a>, or maybe you're here from <a href="https://www.linkedin.com/company/noshitsecurity/">LinkedIn</a>.<br />
 Allow me to explain some things. 
 
-1. I developed a series of CTFs that start easy and gradually get more difficult.
+1. I developed a <a href="https://www.noshitsecurity.com/ctf" target="nss">series</a> of CTFs that start easy and gradually get more difficult.
 2. The CTFs are meant to help newcomers better understand public key infrastructure.
 3. Those whom bested the first active CTFs got a shot at being a #destinyCTF Keyholders
 
