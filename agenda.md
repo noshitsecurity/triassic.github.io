@@ -84,4 +84,5 @@ Students take the wheel; the resource locks are removed and students build resil
 <p align="center">
 <img width="90" src="https://www.noshitsecurity.com/img/wasp.png" />     
 <br /><br />
-  <a href="coc">Code of Conduct</a></p>
+  <a href="coc">Code of Conduct</a><br />
+  Our <a href="https://www.noshitsecurity.com/mission" target="nss">mission</a></p>
