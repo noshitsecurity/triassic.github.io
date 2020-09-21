@@ -7,7 +7,7 @@
 <hr />
 
 
-By now you've got questions about the <a href="https://triassic.noshitsecurity.com">timer</a>, or maybe you're here from <a href="https://www.linkedin.com/company/noshitsecurity/">LinkedIn</a>.<br />
+By now you've got questions about the <a href="https://triassic.noshitsecurity.com">timer</a>, or maybe you're here from <a href="https://www.linkedin.com/company/noshitsecurity/" target="li">LinkedIn</a>.<br />
 Allow me to explain some things. 
 
 1. I developed a <a href="https://www.noshitsecurity.com/ctf" target="nss">series</a> of CTFs that start easy and gradually get more difficult
