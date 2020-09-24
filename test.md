@@ -41,6 +41,9 @@ D is for Dinosaur, leading the way<br class="9c62912b5d1e7b830b10b4302b78c4d2" f
       <img height="80" src="https://www.noshitsecurity.com/img/partners/pswg.png" alt="PortSwigger Academy" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/otw.png" alt="OverTheWire.com" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
     </div>
 </div>
 <p align="center"><img id="wasp" width="90" src="https://www.noshitsecurity.com/img/wasp.png"><br /><br />
