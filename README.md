@@ -19,7 +19,7 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" /></
 <br />
 <p align="center">view the keyholder's <a href="agenda">agenda</a></p>
 <br />
-<br /><p align="center"><a href="https://portal.azure.com" target="az"><img width="90" src="img/azurelogo.png"></a>
+<p align="center"><a href="https://portal.azure.com" target="az"><img width="90" src="img/azurelogo.png"></a>
 <br /><br />
 <p align="center">Official NSS Partners</p>
 <br /><br />
