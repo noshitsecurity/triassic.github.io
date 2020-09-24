@@ -19,7 +19,7 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" />
 <p align="center">view the <a href="https://www.noshitsecurity.com/wins">#destinyCTF</a> winners roster</p>
 <br />
 <p align="center">view the keyholder's <a href="agenda">agenda</a></p>
-<br /><br />
+<br />
 <p align="center"><a href="https://portal.azure.com" target="az"><img src="img/azurelogo.png"></a><br />
 <p align="center">Keyholder's Portal<br /><br />
 <br /><br />
