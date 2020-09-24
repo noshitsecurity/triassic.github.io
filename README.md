@@ -46,6 +46,6 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" /></
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
     </div>
 </div><br /><br />
-<p align="center"><a href="https://www.noshitsecurity.com" target="nss"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br />
+<p align="center"><a href="https://www.noshitsecurity.com" target="nss"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
     <a href="coc">Code of Conduct</a></p>
 
