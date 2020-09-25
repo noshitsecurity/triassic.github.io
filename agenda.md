@@ -30,14 +30,70 @@ Cya in 40 days, dinosaurs.
 
 <br /><br />
 
+**Azure Security Engineering II**<br />
+
+##### 09-21-2020 - 10-1-2020
+<br /><br />
+
+> "Throughout 2020, 95% of cloud security failures are going to be the customer's fault."<br />
+> -Microsoft, Ignite 2019 (Oren)
+<br /><br />
+```
+Agenda
+```
+<br /><br />
+
+`1. Compliace in the multi-cloud`
+
+We will cover CIS and controls mappings, how they translate to other controls and systems, and how to best leverage Sentinel Connectors to get the insights you didn't know you needed.<br /><br />
+
+`2. Building the security program`
+
+We go over what it really means to give the stakeholders peace of mind-- by applying policy and compliance to match rigorous initiatives towards tomorrow's requirements and truly drive the mission forward.<br /><br />
+
+`3. Building the security team`
+
+We talk about building trust, building teams, and what it takes to recruit skilled candidates in a cut-throat industry full of poachers-- and posers.<br /><br />
+
+`4. Assumption of Transparency`
+
+We talk about the Assumption of Transparency regarding apps; app developers; over-reaching permissions and the consequences of app sprawl on a connected device.<br /><br />
+
+`5. Assumption of Security`
+We discuss the lack of proper security in today's production cloud architecture, building on the right foot, and what led Microsoft to quote a number like 95% in 2020.<br /><br />
+
+`6. Assumption of Breach`
+
+We discuss risk, risk factors, insider threats, and what it really means to build with Assumption of Breach present in the architecture and why it matters.<br /><br >
+
+`7. Building with AOB in mind`
+
+We go over the practical application of Zero-Trust architecture built with assumption of breach, and review how the NSS architecture created by the students covered these critical areas.<br /><br />
+
+`8. Azure Security Center`
+
+We take a high-level overview or "birdseye" of Azure Security Center, and discuss how it can be best used to address the conpany's security posture.<br /><br />
+
+`9. Secure Score Index`
+
+We look at the Azure Security Score, review what the shield colors mean, and what exactly the index is, and how to really read what you're looking at.<br /><br />
+
+`10. Advisor Recommendations`
+
+We take a deep dive into how compliance initiatives can be leveraged for projects that use agile sprint methodology to spearhead compliance, and how to build that into create milestones.<br /><br />
+
+`11. Azure Defender`
+
+We take a sneak peek at the new Azure Defender and how it can be leveraged to provide a killer compliance dashboard for your multi-cloud workloads.<br /><br />
+
+<hr />
+<br /><br />
+
 **Azure Security Engineering I**<br />
 
 ##### 09-14-2020 - 09-21-2020
 <br /><br />
-> "Throughout 2020, 95% of cloud security failures are going to be the customer's fault."<br />
-> -Microsoft, Ignite 2019 (Oren)
 
-<br /><br />
 ```
 Agenda
 ```
@@ -81,6 +137,7 @@ We will go over availability limitations, region fail-back, and the true cost of
 
 Students take the wheel; the resource locks are removed and students build resilient Zero Trust Azure Cloud architecture with assumption of breach present, and industry-leading best practices, Disaster Recovery, Policy and Compliance initiatives employed.<br /><br />
 <br /><br />
+
 <p align="center">
 <img width="90" src="https://www.noshitsecurity.com/img/wasp.png" />     
 <br /><br />
