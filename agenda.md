@@ -61,6 +61,7 @@ We talk about building trust, building teams, and what it takes to recruit skill
 We talk about the Assumption of Transparency regarding apps; app developers; over-reaching permissions and the consequences of app sprawl on a connected device.<br /><br />
 
 `5. Assumption of Security`
+
 We discuss the lack of proper security in today's production cloud architecture, building on the right foot, and what led Microsoft to quote a number like 95% in 2020.<br /><br />
 
 `6. Assumption of Breach`
