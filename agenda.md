@@ -74,7 +74,7 @@ We go over the practical application of Zero-Trust architecture built with assum
 
 `8. Azure Security Center`
 
-We take a high-level overview or "birdseye" of Azure Security Center, and discuss how it can be best used to address the conpany's security posture.<br /><br />
+We take a high-level overview or "birdseye" of Azure Security Center and discuss how it can be best used to address the company's security posture.<br /><br />
 
 `9. Secure Score Index`
 
