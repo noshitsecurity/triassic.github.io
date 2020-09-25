@@ -44,7 +44,7 @@ Agenda
 ```
 <br /><br />
 
-`1. Compliace in the multi-cloud`
+`1. Compliance in the multi-cloud`
 
 We will cover CIS and controls mappings, how they translate to other controls and systems, and how to best leverage Sentinel Connectors to get the insights you didn't know you needed.<br /><br />
 
