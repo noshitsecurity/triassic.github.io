@@ -17,9 +17,9 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" /></
 <br />
 <p align="center">view the <a href="https://www.noshitsecurity.com/wins">#destinyCTF</a> winners roster</p>
 <br />
-<p align="center">view the keyholder's <a href="agenda">agenda</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ylwURiCAqPY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
-<p align="center"><a href="https://portal.azure.com" target="az"><img width="90" src="img/azurelogo.png"></a></p>
+<p align="center">view the keyholder's <a href="agenda">agenda</a></p>
 <br />
 <p align="center">Official NSS Partners</p>
 <br /><br />
