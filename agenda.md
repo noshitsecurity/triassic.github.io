@@ -86,8 +86,9 @@ We take a deep dive into how compliance initiatives can be leveraged for project
 
 `11. Azure Defender`
 
-We take a sneak peek at the new Azure Defender and how it can be leveraged to provide a killer compliance dashboard for your multi-cloud workloads.<br /><br />
+We take a sneak peek at the new Azure Defender and how it can be leveraged to provide a killer compliance dashboard for your multi-cloud workloads.
 
+<br /><br />
 <hr />
 <br /><br />
 
