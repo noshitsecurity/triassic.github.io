@@ -78,7 +78,7 @@ We take a high-level overview or "birdseye" of Azure Security Center and discuss
 
 `9. Secure Score Index`
 
-We look at the Azure Security Score, review what the shield colors mean, and what exactly the index is, and how to really read what you're looking at.<br /><br />
+We look at the Azure Security Score, review what the shield colors mean, what exactly the index is, and how to really read what you're looking at.<br /><br />
 
 `10. Advisor Recommendations`
 
