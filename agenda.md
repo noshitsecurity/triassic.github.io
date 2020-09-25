@@ -50,7 +50,7 @@ We will cover CIS and controls mappings, how they translate to other controls an
 
 `2. Building the security program`
 
-We go over what it really means to give the stakeholders peace of mind-- by applying policy and compliance to match rigorous initiatives towards tomorrow's requirements and truly drive the mission forward.<br /><br />
+We go over what it really means to give the stakeholders peace of mind-- by applying policy and compliance to match rigorous initiatives towards tomorrow's requirements that truly drive the mission forward.<br /><br />
 
 `3. Building the security team`
 
