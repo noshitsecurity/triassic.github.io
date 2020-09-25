@@ -25,6 +25,10 @@ Cya in 40 days, dinosaurs.
 
 <br /><br />
 
+<p align="center"><iframe width="640" height="400" src="https://www.youtube.com/embed/ylwURiCAqPY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<br /><br />
+
 <p align="center"><img width="200" src="img/kh_triassic.png" /><br /><br />
 <img width="200" src="https://www.noshitsecurity.com/img/partners/fido2.png" /></p>
 
