@@ -62,7 +62,7 @@ We talk about the Assumption of Transparency regarding apps; app developers; ove
 
 `5. Assumption of Security`
 
-We discuss the lack of proper security in today's production cloud architecture, building on the right foot, and what led Microsoft to quote a number like 95% in 2020.<br /><br />
+We discuss the lack of proper security in today's production cloud workloads, building on the right foot, and what led Microsoft to quote a number like 95% in 2020.<br /><br />
 
 `6. Assumption of Breach`
 
@@ -70,7 +70,7 @@ We discuss risk, risk factors, insider threats, and what it really means to buil
 
 `7. Building with AOB in mind`
 
-We go over the practical application of Zero-Trust architecture built with assumption of breach, and review how the NSS architecture created by the students covered these critical areas.<br /><br />
+We go over the practical application of Zero-Trust architecture built with assumption of breach present, and review how the NSS architecture created by the students covers these critical areas.<br /><br />
 
 `8. Azure Security Center`
 
@@ -82,11 +82,11 @@ We look at the Azure Security Score, review what the shield colors mean, what ex
 
 `10. Advisor Recommendations`
 
-We take a deep dive into how compliance initiatives can be leveraged for projects that use agile sprint methodology to spearhead compliance, and how use that to create milestones.<br /><br />
+We take a deep dive into how compliance initiatives can be leveraged to create projects and milestones that use agile sprint methodology to spearhead compliance.<br /><br />
 
 `11. Azure Defender`
 
-We take a sneak peek at the new Azure Defender and how it can be leveraged to provide a killer compliance dashboard for your multi-cloud workloads.
+We take a fresh look at the new Azure Defender and how it can be leveraged to provide a killer compliance dashboard for your multi-cloud workloads.
 
 <br /><br />
 <hr />
