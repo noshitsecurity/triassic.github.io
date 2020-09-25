@@ -40,7 +40,7 @@ Cya in 40 days, dinosaurs.
 
 <br /><br />
 ```
-Agenda
+Keyholder's Agenda
 ```
 <br /><br />
 
@@ -98,7 +98,7 @@ We take a sneak peek at the new Azure Defender and how it can be leveraged to pr
 <br /><br />
 
 ```
-Agenda
+Keyholder's Agenda
 ```
 <br /><br />
 
