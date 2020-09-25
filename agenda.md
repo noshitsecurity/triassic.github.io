@@ -25,10 +25,6 @@ Cya in 40 days, dinosaurs.
 
 <br /><br />
 
-<p align="center"><iframe width="640" height="400" src="https://www.youtube.com/embed/ylwURiCAqPY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<br /><br />
-
 <p align="center"><img width="200" src="img/kh_triassic.png" /><br /><br />
 <img width="200" src="https://www.noshitsecurity.com/img/partners/fido2.png" /></p>
 
@@ -144,6 +140,8 @@ We will go over availability limitations, region fail-back, and the true cost of
 
 Students take the wheel; the resource locks are removed and students build resilient Zero Trust Azure Cloud architecture with assumption of breach present, and industry-leading best practices, Disaster Recovery, Policy and Compliance initiatives employed.<br /><br />
 <br /><br />
+
+<p align="center"><iframe width="640" height="400" src="https://www.youtube.com/embed/ylwURiCAqPY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p align="center">
 <img width="90" src="https://www.noshitsecurity.com/img/wasp.png" />     
