@@ -39,7 +39,7 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" /></
       <img height="80" src="https://www.noshitsecurity.com/img/partners/pswg.png" alt="PortSwigger Academy" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
-      <img height="80" src="https://www.noshitsecurity.com/img/partners/otw.png" alt="OverTheWire" />
+      <img height="80" src="https://www.noshitsecurity.com/img/partners/otw.png" alt="OverTheWire.org" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
       <img height="80" src="https://www.noshitsecurity.com/img/partners/sp.png" alt="NSS Partners" />
     </div>
