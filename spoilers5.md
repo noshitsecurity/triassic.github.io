@@ -10,13 +10,10 @@ If you are still struggling, git this, you're a goof. Remember the hubub, and pr
 Use the old walkthrough to grow a new leg. Then kick some triassic the #architect's way.<br /><br />
 
 ```
-0-1-2-33-4
-stegosaur
-birds
-detective
-hiding
-gecko.jpg
-win
+1-2-33-4
+i declare a stegosaur
+birds-detective-hiding-gecko
+win if pgp is echoed
 
 #destinyCTF
 ```
