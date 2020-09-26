@@ -10,7 +10,6 @@ If you are still struggling, git this, you're a goof. Remember the hubub, and pr
 Use the old walkthrough to grow a new leg. Then kick some triassic the #architect's way.<br /><br />
 
 <br /><br />
-<br /><br />
 
 13<br />
 stegosaur<br />
