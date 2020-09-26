@@ -1,5 +1,5 @@
-<br /><br />
-<br /><br />
+<br answer="dr 4/2 rz 2/1"/><br />
+<br destiny="otnu voidz ub vpsc aiq juudid" /><br />
 
 ## #destinyCTF spoilers
 <hr />
@@ -11,9 +11,9 @@ Use the old walkthrough to grow a new leg. Then kick some triassic the #architec
 
 ```
 1-2-33-4
-i declare a stegosaur
-birds-detective-hiding-gecko
-win if pgp is echoed
+i declare, a st3gosauR
+birds-detective-hiding-gecko-win 
+if pgp, is echo
 
 #destinyCTF
 ```
