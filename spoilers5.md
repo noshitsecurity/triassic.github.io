@@ -12,17 +12,16 @@ Use the old walkthrough to grow a new leg. Then kick some triassic the #architec
 <br /><br />
 <br /><br />
 
-noshitsecurity.com/13.md<br />
-triassic.noshitsecurity.com/README.md<br />
-triassic.noshitsecurity.com/img/stegosaur.gif<br />
-triassic.noshitsecurity.com/img/win.png<br />
-triassic.noshitsecurity.com/birds.png<br />
-triassic.noshitsecurity.com/detective.png<br />
-triassic.noshitsecurity.com/gecko.jpg<br />
-triassic.noshitsecurity.com/hiding.png<br />
+13<br />
+stegosaur<br />
+birds<br />
+detective<br />
+hiding<br />
+gecko.jpg<br />
+win<br />
 
 #destinyCTF
 
 <p align="center">
-  <img width="90" src="https://www.noshitsecurity.com/img/wasp.png">
+  <a href="https://triassic.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a>
 </p>
