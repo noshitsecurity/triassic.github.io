@@ -5,7 +5,7 @@
 <hr />
 
 I'd start with that stegosaur, the one that is walking. Then checkout the EXIF, let that do the talking.<br /><br />
-Now Finally dig, cuz Recon is gold. Respect the detective; be weary of trolls.<br /><br />
+Now Final you dig, cuz Recon is gold. Respect the detective; be weary of trolls.<br /><br />
 If you are still struggling, git this, you're a goof. Remember the hubub, and privacy *poof*<br /><br />
 Use the old walkthrough to grow a new leg. Then kick some triassic the #architect's way.<br /><br />
 
