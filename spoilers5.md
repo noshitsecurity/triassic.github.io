@@ -9,8 +9,6 @@ From there you can dig, but be weary of trolls. Inspect those ones anyways, dete
 If you are still struggling, git this, you're a goof. Remember the hubub, and privacy *poof*<br /><br />
 Use the old walkthrough to grow a new leg. Then kick some triassic the #architect's way.<br /><br />
 
-<br /><br />
-
 13<br />
 stegosaur<br />
 birds<br />
