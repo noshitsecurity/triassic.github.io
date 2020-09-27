@@ -18,8 +18,12 @@ Click here for <a href="https://github.com/thewhiteh4t/FinalRecon" target="FR">F
 Check back for more information as it becomes available.<br /><br />
 
 #### -Shane
-<br dinosaur="1f07fedd38553db534bff415c827a7e0"/>
-<br />
+
+
+<br /><br />
+<br /><br dinosaur="1f07fedd38553db534bff415c827a7e0"/>
+
 <p align="center">
-  <img width="90" src="https://www.noshitsecurity.com/img/wasp.png">
+  <a href="https://www.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
+    Find your foothold.™
 </p>
