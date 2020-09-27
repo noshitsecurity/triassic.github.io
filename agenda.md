@@ -144,7 +144,6 @@ Students take the wheel; the resource locks are removed and students build resil
 <br /><br />
 
 <p align="center">
-  <a href="https://www.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
-    Find your foothold.™
+  <a href="https://triassic.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
+  Find your foothold.™
 </p>
-
