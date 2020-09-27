@@ -19,6 +19,7 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" /></
 <br />
 <p align="center">view the keyholder's <a href="agenda">agenda</a></p>
 <br />
+<!-- Good job Employee #42, I like the way the banner looks. Please remove the temp one from the main site and archive the email. Also, good job updating everything to use the new address instead of the you-know-what. -Mr Gatekeeper -->
 <p align="center">Official NSS Partners</p>
 <br /><br />
 <div id="partners">
