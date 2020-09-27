@@ -13,7 +13,7 @@ D is for Dinosaur, leading the way<br class="fossilkey" fossil="classyfied" /></
 </p><br /><br />
 <p align="center">the <a href="https://somafm.com/player/#/now-playing/defcon" target="dc">music</a> helps</p>
 <br />
-- <p align="center">this challenge has been <a href="https://www.noshitsecurity.com/wins">#destinyCTF</a>solved</p> -
+- <p align="center">this challenge has been <a href="https://www.noshitsecurity.com/wins">solved</a></p> -
 <br />
 <p align="center">view the keyholder's <a href="agenda">agenda</a></p>
 <br />
