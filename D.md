@@ -22,6 +22,6 @@ When new eyes look a 'round<br />
 <br /><br />
 
 <p align="center">
-  <a href="https://www.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
-    Find your foothold.™
+  <a href="https://triassic.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
+  Find your foothold.™
 </p>
