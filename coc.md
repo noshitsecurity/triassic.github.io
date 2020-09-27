@@ -97,6 +97,6 @@ _Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.or
 <br /><br />
 
 <p align="center">
-  <a href="https://www.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
-    Find your foothold.™
+  <a href="https://triassic.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
+  Find your foothold.™
 </p>
