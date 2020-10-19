@@ -33,6 +33,9 @@ Listed below is the keyholder's agenda, and the hands-on skills they developed t
 ##### 09-14-2020 - 09-21-2020
 <br /><br />
 
+> "Throughout 2020, 95% of cloud security failures are going to be the customer's fault."<br />
+> -Microsoft, Ignite 2019 (Oren)
+
 ```
 Keyholder's Agenda
 ```
@@ -83,15 +86,13 @@ Students take the wheel; the resource locks are removed and students build resil
 **Azure Security Engineering II**<br />
 
 ##### 09-21-2020 - 10-1-2020
-<br /><br />
-
-> "Throughout 2020, 95% of cloud security failures are going to be the customer's fault."<br />
-> -Microsoft, Ignite 2019 (Oren)
 
 <br /><br />
+
 ```
 Keyholder's Agenda
 ```
+
 <br /><br />
 
 `1. Compliance in the multi-cloud`
