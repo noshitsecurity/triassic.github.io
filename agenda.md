@@ -17,7 +17,7 @@ Allow me to explain some things.
 This put Azure Cloud login credentials into the hands of the Keyholders.
 
 They were the first generation of students learning Azure security architecture from yours truly.<br />
-Listed below was the keyholder's agenda, and the hands-on skills they developed together.<br /><br />
+Listed below is the keyholder's agenda, and the hands-on skills they developed together.<br /><br />
 
 #### -Shane
 
@@ -26,6 +26,58 @@ Listed below was the keyholder's agenda, and the hands-on skills they developed 
 <p align="center"><img width="200" src="img/kh_triassic.png" /><br /><br />
 <img width="200" src="https://www.noshitsecurity.com/img/partners/fido2.png" /></p>
 
+<br /><br />
+
+**Azure Security Engineering I**<br />
+
+##### 09-14-2020 - 09-21-2020
+<br /><br />
+
+```
+Keyholder's Agenda
+```
+<br /><br />
+
+`1. Conditional Access`
+
+We will demonstrate and discuss what it takes to start building on the best foot-- starting with conditional access and infrastructure-wide multi-factor authentication.<br /><br /> 
+
+`2. Containers, Resources, and Resource Groups`<br />
+
+We will then move into what approaches can be used with resource groups, what things are containers and what things aren't, and how to best leverage IAM with the options you have.<br /><br />
+
+`3. Networks, Subnets, and Zero Trust Architecture`
+
+We will demonstrate and discuss the nuts and bolts of; and what it takes to build a real enterprise ZTA network the best way-- with the future in mind and assumption of breach present in the arch.<br /><br />
+
+`4. Storage Accounts, Vaults, and Service and Private Endpoints`
+
+We will demonstrate and discuss the best way to build and use Storage Accounts and Keyvaults in Azure, and cover what Service / Private Endpoints are meant for. <br /><br />
+
+`5. Policy and Compliance in the Azure cloud`
+
+We will demonstrate and discuss how to scope and apply policies to conform infra with PCI, NIST, Azure CIS Benchmark and other relevant security controls.<br /><br />
+
+`6 Virtual Machines, limitations with IAM and Azure AD` 
+
+We will demonstrate and discuss how to build resilient virtual machines that conform to availability and failover / fail-back prerequisites, and how to approach each OS style with the best IAM solution possible for the scenario.<br /><br />
+
+`7. Updates, DR, Backups, and Managed Identities`
+
+We will demonstrate and discuss backups and DR, as well as the best way to approach the idea of a "service account" eg service principal, and what Automation Accounts and managed identities can do for your infrastructure.<br /><br />
+
+`8. Operational Excellence and High Availability`
+
+We will go over availability limitations, region fail-back, and the true cost of Azure Firewall, DDoS protection, and doing business in the cloud at the lowest bottom line.<br /><br />
+
+`9. Practical Application & Hands-On Sessions`
+
+##### 09-17-2020 - 09-21-2020
+
+Students take the wheel; the resource locks are removed and students build resilient Zero Trust Azure Cloud architecture with assumption of breach present, and industry-leading best practices, Disaster Recovery, Policy and Compliance initiatives employed.
+
+<br /><br />
+<hr />
 <br /><br />
 
 **Azure Security Engineering II**<br />
@@ -85,58 +137,6 @@ We take a deep dive into how compliance initiatives can be leveraged to create p
 `11. Azure Defender`
 
 We take a fresh look at the new Azure Defender and how it can be leveraged to provide a killer compliance dashboard for your multi-cloud workloads.
-
-<br /><br />
-<hr />
-<br /><br />
-
-**Azure Security Engineering I**<br />
-
-##### 09-14-2020 - 09-21-2020
-<br /><br />
-
-```
-Keyholder's Agenda
-```
-<br /><br />
-
-`1. Conditional Access`
-
-We will demonstrate and discuss what it takes to start building on the best foot-- starting with conditional access and infrastructure-wide multi-factor authentication.<br /><br /> 
-
-`2. Containers, Resources, and Resource Groups`<br />
-
-We will then move into what approaches can be used with resource groups, what things are containers and what things aren't, and how to best leverage IAM with the options you have.<br /><br />
-
-`3. Networks, Subnets, and Zero Trust Architecture`
-
-We will demonstrate and discuss the nuts and bolts of; and what it takes to build a real enterprise ZTA network the best way-- with the future in mind and assumption of breach present in the arch.<br /><br />
-
-`4. Storage Accounts, Vaults, and Service and Private Endpoints`
-
-We will demonstrate and discuss the best way to build and use Storage Accounts and Keyvaults in Azure, and cover what Service / Private Endpoints are meant for. <br /><br />
-
-`5. Policy and Compliance in the Azure cloud`
-
-We will demonstrate and discuss how to scope and apply policies to conform infra with PCI, NIST, Azure CIS Benchmark and other relevant security controls.<br /><br />
-
-`6 Virtual Machines, limitations with IAM and Azure AD` 
-
-We will demonstrate and discuss how to build resilient virtual machines that conform to availability and failover / fail-back prerequisites, and how to approach each OS style with the best IAM solution possible for the scenario.<br /><br />
-
-`7. Updates, DR, Backups, and Managed Identities`
-
-We will demonstrate and discuss backups and DR, as well as the best way to approach the idea of a "service account" eg service principal, and what Automation Accounts and managed identities can do for your infrastructure.<br /><br />
-
-`8. Operational Excellence and High Availability`
-
-We will go over availability limitations, region fail-back, and the true cost of Azure Firewall, DDoS protection, and doing business in the cloud at the lowest bottom line.<br /><br />
-
-`9. Practical Application & Hands-On Sessions`
-
-##### 09-17-2020 - 09-21-2020
-
-Students take the wheel; the resource locks are removed and students build resilient Zero Trust Azure Cloud architecture with assumption of breach present, and industry-leading best practices, Disaster Recovery, Policy and Compliance initiatives employed.
 
 <br /><br />
 <br /><br />
