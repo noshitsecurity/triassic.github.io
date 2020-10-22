@@ -142,7 +142,6 @@ We take a deep dive into how compliance initiatives can be leveraged to create p
 We take a fresh look at the new Azure Defender and how it can be leveraged to provide a killer compliance dashboard for your multi-cloud workloads.
 
 <br /><br />
-<br /><br />
 
 <p align="center">
   Real arch made by the Keyholders<br /><br />
