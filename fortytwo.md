@@ -9,11 +9,3 @@ not having someone push me into it<br />
 and that's it. that's the big answer.<br />
 <br />
 #TWC #general-chat #ancient #lifelessons #bethechange #dinosaurs
-
-<br /><br />
-<br /><br />
-
-<p align="center">
-  <a href="https://triassic.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
-  Find your foothold.™
-</p>
