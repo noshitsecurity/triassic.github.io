@@ -17,10 +17,3 @@ if pgp, is echo
 
 #destinyCTF
 ```
-<br /><br /><br />
-<br /><br /><br />
-
-<p align="center">
-  <a href="https://triassic.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
-  Find your foothold.™
-</p>
