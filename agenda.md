@@ -16,8 +16,8 @@ Allow me to explain some things.
 
 This put Azure Cloud login credentials into the hands of the Keyholders.
 
-They were the first generation of students learning Azure security architecture from yours truly.<br />
-Listed below is the keyholder's agenda, and the hands-on skills they developed together.<br /><br />
+They were the first generation of students learning Azure security architecture from NSS.<br />
+Listed below is the Keyholder's Agenda, and the hands-on skills they developed together.<br /><br />
 
 #### -Shane
 
@@ -140,3 +140,12 @@ We take a deep dive into how compliance initiatives can be leveraged to create p
 `11. Azure Defender`
 
 We take a fresh look at the new Azure Defender and how it can be leveraged to provide a killer compliance dashboard for your multi-cloud workloads.
+
+<br /><br />
+<br /><br />
+
+<p align="center">
+  Real arch made by the Keyholders<br /><br />
+  <img width="300" src="img/200.png"><br /><br />
+  Build it like you mean breach.
+</p>
