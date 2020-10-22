@@ -14,6 +14,4 @@ Use the old <a href="https://www.noshitsecurity.com/spoilers4" target="architect
 i declare, a st3gosauR
 birds-detective-hiding-gecko-win 
 if pgp, is echo
-
-#destinyCTF
 ```
