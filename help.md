@@ -4,7 +4,9 @@
 # Dinosaur Helpdesk System
 <hr /><br />
 
-Our challenges feature everything from simple cipher suites and steganography to advanced binary exploitation and shellcode-- not to mention black boxes built on cutting-edge cloud architecture to help you practice like a pro. Our course and challenge architects are incredibly capable, and always ready to help you learn. <br /><br /><br />
+Our challenges feature everything from simple cipher suites and steganography to advanced binary exploitation and shellcode-- not to mention black boxes built on cutting-edge cloud architecture to help you practice like a pro. Our course and challenge architects are incredibly capable, and always ready to help you learn.
+
+<br />
 
 #### Everything you will need to complete our current challenges is listed below
 
