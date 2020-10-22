@@ -140,11 +140,3 @@ We take a deep dive into how compliance initiatives can be leveraged to create p
 `11. Azure Defender`
 
 We take a fresh look at the new Azure Defender and how it can be leveraged to provide a killer compliance dashboard for your multi-cloud workloads.
-
-<br /><br />
-<br /><br />
-
-<p align="center">
-  <a href="https://triassic.noshitsecurity.com"><img width="90" src="https://www.noshitsecurity.com/img/wasp.png"></a><br /><br />
-  Find your foothold.™
-</p>
