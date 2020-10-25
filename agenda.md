@@ -34,7 +34,7 @@ Listed below is the Keyholder's Agenda, and the hands-on skills they developed t
 <br /><br />
 
 > "Throughout 2020, 95% of cloud security failures are going to be the customer's fault."<br />
-> -Microsoft, Ignite 2019 (Oren)
+> -Orin Thomas, Microsoft Ignite 2019 
 
 <br /><br />
 
