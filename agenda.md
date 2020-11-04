@@ -63,7 +63,7 @@ We will demonstrate and discuss the best way to build and use Storage Accounts a
 
 We will demonstrate and discuss how to scope and apply policies to conform infra with PCI, NIST, Azure CIS Benchmark and other relevant security controls.<br /><br />
 
-`6 Virtual Machines, limitations with IAM and Azure AD` 
+`6. Virtual Machines, limitations with IAM and Azure AD` 
 
 We will demonstrate and discuss how to build resilient virtual machines that conform to availability and failover / fail-back prerequisites, and how to approach each OS style with the best IAM solution possible for the scenario.<br /><br />
 
