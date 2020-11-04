@@ -135,7 +135,7 @@ We look at the Azure Security Score, review what the shield colors mean, what ex
 
 `10. Advisor Recommendations`
 
-We take a deep dive into how compliance initiatives can be leveraged to create projects and milestones that use agile sprint methodology to spearhead compliance.<br /><br />
+We take a deep dive into how definitions and initiatives can be leveraged to create projects and milestones that use agile sprint methodology to spearhead compliance.<br /><br />
 
 `11. Azure Defender`
 
